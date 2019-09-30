@@ -99,3 +99,4 @@
 0670. ✨ feat: add export to CSV option
 0316. 🐛 fix: fix broken CSS in mobile view
 0544. 🔧 refactor: organize models into subfolders
+0333. 🚀 perf: cache repeated calculations
