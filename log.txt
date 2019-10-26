@@ -104,3 +104,4 @@
 0356. 📚 docs: write FAQ section
 0228. 🔧 refactor: remove redundant code blocks
 0124. 🎨 style: reformat files with black
+0818. 🔧 refactor: remove redundant code blocks
