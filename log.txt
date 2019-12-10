@@ -108,3 +108,4 @@
 0271. ✅ test: add unit test for quiz service
 0153. ♻️ chore: rename env.example
 0849. 🐛 fix: correct typo in registration form
+0939. 📚 docs: update README with setup steps
