@@ -120,3 +120,4 @@
 0730. ✅ test: test user registration edge cases
 0774. 🔧 refactor: refactor quiz grading logic
 0028. 🎨 style: standardize quote style
+0357. ✅ test: add unit test for quiz service
