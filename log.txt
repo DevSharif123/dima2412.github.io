@@ -128,3 +128,4 @@
 0160. ♻️ chore: bump dependencies
 0244. ✨ feat: add export to CSV option
 0034. 📚 docs: improve code comments in utils
+0852. ✨ feat: enable dark mode toggle
