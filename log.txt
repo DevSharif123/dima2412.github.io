@@ -130,3 +130,4 @@
 0034. 📚 docs: improve code comments in utils
 0852. ✨ feat: enable dark mode toggle
 0841. 🚀 perf: optimize database query for quiz results
+0448. 🐛 fix: correct typo in registration form
