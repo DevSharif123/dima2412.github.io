@@ -137,3 +137,4 @@
 0715. ✨ feat: create admin dashboard
 0329. 📚 docs: update README with setup steps
 0481. ✅ test: add unit test for quiz service
+0792. 🎨 style: standardize quote style
