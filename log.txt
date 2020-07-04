@@ -155,3 +155,4 @@
 0623. 🎨 style: standardize quote style
 0189. 📚 docs: clarify environment setup
 0664. ✅ test: add unit test for quiz service
+0771. 🚀 perf: cache repeated calculations
