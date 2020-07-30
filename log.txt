@@ -161,3 +161,4 @@
 0161. ✨ feat: create admin dashboard
 0111. 📚 docs: update README with setup steps
 0511. 🐛 fix: fix broken CSS in mobile view
+0547. 📚 docs: write FAQ section
