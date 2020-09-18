@@ -166,3 +166,4 @@
 0145. 📚 docs: improve code comments in utils
 0434. 📚 docs: document token refresh logic
 0295. 🎨 style: remove trailing whitespace
+0548. 📚 docs: write FAQ section
