@@ -167,3 +167,4 @@
 0434. 📚 docs: document token refresh logic
 0295. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
+0558. ✨ feat: enable dark mode toggle
