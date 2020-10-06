@@ -168,3 +168,4 @@
 0295. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
 0558. ✨ feat: enable dark mode toggle
+0171. 🐛 fix: fix broken CSS in mobile view
