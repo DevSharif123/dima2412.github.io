@@ -173,3 +173,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0870. ♻️ chore: clean up unused files
 0809. ♻️ chore: rename env.example
+0992. ♻️ chore: clean up unused files
