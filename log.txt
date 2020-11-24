@@ -176,3 +176,4 @@
 0992. ♻️ chore: clean up unused files
 0927. ♻️ chore: bump dependencies
 0302. ✨ feat: implement quiz timer feature
+0002. 🚀 perf: cache repeated calculations
