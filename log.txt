@@ -177,3 +177,4 @@
 0927. ♻️ chore: bump dependencies
 0302. ✨ feat: implement quiz timer feature
 0002. 🚀 perf: cache repeated calculations
+0574. ✨ feat: enable dark mode toggle
