@@ -180,3 +180,4 @@
 0574. ✨ feat: enable dark mode toggle
 0756. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
+0032. 🎨 style: apply consistent indentation
