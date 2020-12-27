@@ -187,3 +187,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0844. 📚 docs: update README with setup steps
 0140. 🐛 fix: handle 500 error in quiz API
+0021. ✨ feat: support email verification
