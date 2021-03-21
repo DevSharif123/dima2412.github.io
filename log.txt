@@ -203,3 +203,4 @@
 0158. 📚 docs: clarify environment setup
 0745. ✅ test: add unit test for quiz service
 0495. 🔧 refactor: remove redundant code blocks
+0006. 🐛 fix: prevent crash on empty input
