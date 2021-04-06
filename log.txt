@@ -208,3 +208,4 @@
 0561. 📚 docs: write FAQ section
 0765. ♻️ chore: clean up unused files
 0886. ♻️ chore: clean up unused files
+0471. ✨ feat: support email verification
