@@ -213,3 +213,4 @@
 0336. ✨ feat: add export to CSV option
 0331. 🐛 fix: fix broken CSS in mobile view
 0332. 🎨 style: standardize quote style
+0986. 📚 docs: document token refresh logic
