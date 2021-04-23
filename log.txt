@@ -214,3 +214,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0332. 🎨 style: standardize quote style
 0986. 📚 docs: document token refresh logic
+0188. 🎨 style: apply consistent indentation
