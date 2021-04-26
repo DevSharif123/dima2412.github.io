@@ -216,3 +216,4 @@
 0986. 📚 docs: document token refresh logic
 0188. 🎨 style: apply consistent indentation
 0131. 📚 docs: write FAQ section
+0090. ✅ test: increase coverage on auth module
