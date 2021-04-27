@@ -217,3 +217,4 @@
 0188. 🎨 style: apply consistent indentation
 0131. 📚 docs: write FAQ section
 0090. ✅ test: increase coverage on auth module
+0980. 🎨 style: reformat files with black
