@@ -225,3 +225,4 @@
 0169. 📚 docs: add API usage examples
 0814. 🔧 refactor: remove redundant code blocks
 0556. ✨ feat: support email verification
+0891. ✨ feat: create admin dashboard
