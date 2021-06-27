@@ -228,3 +228,4 @@
 0891. ✨ feat: create admin dashboard
 0702. ✨ feat: add user authentication
 0225. 🚀 perf: reduce image load time
+0807. 🔧 refactor: remove redundant code blocks
