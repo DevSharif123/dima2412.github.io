@@ -236,3 +236,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0589. 🐛 fix: fix broken CSS in mobile view
 0260. ✨ feat: create admin dashboard
+0973. 🔧 refactor: organize models into subfolders
