@@ -240,3 +240,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0472. 🐛 fix: fix null pointer exception on login
 0187. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
