@@ -241,3 +241,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0187. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
+0966. 📚 docs: improve code comments in utils
