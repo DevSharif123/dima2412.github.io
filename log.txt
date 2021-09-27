@@ -247,3 +247,4 @@
 0007. 🎨 style: rename variables for clarity
 0597. 🚀 perf: cache repeated calculations
 0449. ✅ test: add unit test for quiz service
+0110. 🐛 fix: prevent crash on empty input
