@@ -250,3 +250,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0381. ♻️ chore: clean up unused files
 0610. 🚀 perf: lazy-load components
+0231. 🔧 refactor: clean up auth middleware
