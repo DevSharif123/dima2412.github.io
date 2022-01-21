@@ -276,3 +276,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0054. ♻️ chore: update .gitignore
 0587. 🔧 refactor: remove redundant code blocks
+0026. 🔧 refactor: clean up auth middleware
