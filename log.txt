@@ -290,3 +290,4 @@
 0012. 🚀 perf: cache repeated calculations
 0102. ✨ feat: support email verification
 0824. 🚀 perf: lazy-load components
+0881. 🔧 refactor: split large controller into smaller functions
