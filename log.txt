@@ -295,3 +295,4 @@
 0554. 📚 docs: improve code comments in utils
 0662. ♻️ chore: clean up unused files
 0706. ✨ feat: support email verification
+0600. 🐛 fix: prevent crash on empty input
