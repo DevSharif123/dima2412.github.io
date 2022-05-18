@@ -296,3 +296,4 @@
 0662. ♻️ chore: clean up unused files
 0706. ✨ feat: support email verification
 0600. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
