@@ -300,3 +300,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0888. 🚀 perf: lazy-load components
 0487. 🎨 style: reformat files with black
+0040. 🔧 refactor: clean up auth middleware
