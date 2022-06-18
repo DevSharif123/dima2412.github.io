@@ -303,3 +303,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0883. 📚 docs: improve code comments in utils
 0349. ✅ test: increase coverage on auth module
+0016. 🎨 style: apply consistent indentation
