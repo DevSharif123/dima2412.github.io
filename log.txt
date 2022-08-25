@@ -313,3 +313,4 @@
 0762. 🚀 perf: lazy-load components
 0810. 🔧 refactor: refactor quiz grading logic
 0984. ♻️ chore: clean up unused files
+0527. 🎨 style: remove trailing whitespace
