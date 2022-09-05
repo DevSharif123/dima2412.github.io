@@ -315,3 +315,4 @@
 0984. ♻️ chore: clean up unused files
 0527. 🎨 style: remove trailing whitespace
 0675. 🔧 refactor: organize models into subfolders
+0521. 🎨 style: standardize quote style
