@@ -317,3 +317,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0521. 🎨 style: standardize quote style
 0766. 🎨 style: reformat files with black
+0359. 🔧 refactor: clean up auth middleware
