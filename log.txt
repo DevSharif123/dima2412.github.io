@@ -328,3 +328,4 @@
 0389. 📚 docs: improve code comments in utils
 0450. 🐛 fix: fix broken CSS in mobile view
 0996. ✅ test: test user registration edge cases
+0786. ✨ feat: enable dark mode toggle
