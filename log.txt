@@ -329,3 +329,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0996. ✅ test: test user registration edge cases
 0786. ✨ feat: enable dark mode toggle
+0496. ✅ test: add integration test for /submit endpoint
