@@ -336,3 +336,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0559. 🔧 refactor: split large controller into smaller functions
 0061. ✨ feat: create admin dashboard
+0438. ♻️ chore: bump dependencies
