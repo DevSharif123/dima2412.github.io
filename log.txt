@@ -338,3 +338,4 @@
 0061. ✨ feat: create admin dashboard
 0438. ♻️ chore: bump dependencies
 0317. ✅ test: test user registration edge cases
+0612. ✅ test: test user registration edge cases
