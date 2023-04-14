@@ -348,3 +348,4 @@
 0275. 🎨 style: standardize quote style
 0838. 🎨 style: standardize quote style
 0764. ✨ feat: add user authentication
+0013. ✅ test: increase coverage on auth module
