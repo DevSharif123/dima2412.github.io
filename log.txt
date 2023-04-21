@@ -350,3 +350,4 @@
 0764. ✨ feat: add user authentication
 0013. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
+0624. ✅ test: add unit test for quiz service
