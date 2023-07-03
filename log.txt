@@ -360,3 +360,4 @@
 0567. 📚 docs: add API usage examples
 0398. 🚀 perf: cache repeated calculations
 0919. 🚀 perf: optimize database query for quiz results
+0821. ✅ test: add integration test for /submit endpoint
