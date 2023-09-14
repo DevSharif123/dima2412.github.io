@@ -374,3 +374,4 @@
 0742. 📚 docs: clarify environment setup
 0524. ♻️ chore: rename env.example
 0063. 🐛 fix: handle 500 error in quiz API
+0552. 🐛 fix: fix null pointer exception on login
