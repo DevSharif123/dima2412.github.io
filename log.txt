@@ -376,3 +376,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0552. 🐛 fix: fix null pointer exception on login
 0230. ✨ feat: create admin dashboard
+0181. ♻️ chore: add GitHub actions badge
