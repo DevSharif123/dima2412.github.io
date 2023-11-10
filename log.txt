@@ -382,3 +382,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0023. 📚 docs: clarify environment setup
 0396. 🔧 refactor: split large controller into smaller functions
+0388. 🎨 style: reformat files with black
