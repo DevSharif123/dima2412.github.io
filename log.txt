@@ -383,3 +383,4 @@
 0023. 📚 docs: clarify environment setup
 0396. 🔧 refactor: split large controller into smaller functions
 0388. 🎨 style: reformat files with black
+0599. ✅ test: test user registration edge cases
