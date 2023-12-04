@@ -386,3 +386,4 @@
 0599. ✅ test: test user registration edge cases
 0997. ✅ test: increase coverage on auth module
 0415. 🐛 fix: handle 500 error in quiz API
+0435. ✅ test: add unit test for quiz service
