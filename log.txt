@@ -392,3 +392,4 @@
 0842. 🎨 style: remove trailing whitespace
 0011. ✅ test: add unit test for quiz service
 0676. 🐛 fix: prevent crash on empty input
+0157. ✅ test: mock database connection in test suite
