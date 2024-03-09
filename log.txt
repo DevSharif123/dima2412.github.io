@@ -403,3 +403,4 @@
 0606. 📚 docs: improve code comments in utils
 0382. 📚 docs: improve code comments in utils
 0314. ✨ feat: implement quiz timer feature
+0254. 🚀 perf: reduce image load time
