@@ -406,3 +406,4 @@
 0254. 🚀 perf: reduce image load time
 0681. ✨ feat: create admin dashboard
 0460. 📚 docs: write FAQ section
+0621. 🔧 refactor: clean up auth middleware
