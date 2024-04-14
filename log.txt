@@ -413,3 +413,4 @@
 0093. ✅ test: add unit test for quiz service
 0223. 🔧 refactor: remove redundant code blocks
 0122. ✨ feat: support email verification
+0947. 📚 docs: write FAQ section
