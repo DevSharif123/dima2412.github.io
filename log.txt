@@ -495,3 +495,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0754. 🐛 fix: handle 500 error in quiz API
 0437. 📚 docs: clarify environment setup
+0084. 🐛 fix: handle 500 error in quiz API
