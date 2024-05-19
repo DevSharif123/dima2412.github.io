@@ -497,3 +497,4 @@
 0437. 📚 docs: clarify environment setup
 0084. 🐛 fix: handle 500 error in quiz API
 0753. 🔧 refactor: remove redundant code blocks
+0092. 🚀 perf: reduce image load time
