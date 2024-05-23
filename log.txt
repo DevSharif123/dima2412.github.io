@@ -502,3 +502,4 @@
 0803. ✅ test: mock database connection in test suite
 0142. ✨ feat: implement quiz timer feature
 0720. ✨ feat: add export to CSV option
+0106. 🎨 style: reformat files with black
