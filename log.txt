@@ -505,3 +505,4 @@
 0106. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
 0954. 🚀 perf: cache repeated calculations
+0352. ✨ feat: add export to CSV option
