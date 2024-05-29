@@ -510,3 +510,4 @@
 0979. 🎨 style: standardize quote style
 0234. ♻️ chore: rename env.example
 0045. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
