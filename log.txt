@@ -420,3 +420,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0436. ✅ test: add integration test for /submit endpoint
 0566. 📚 docs: write FAQ section
+0605. ✨ feat: support email verification
