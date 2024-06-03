@@ -514,3 +514,4 @@
 0635. 🎨 style: apply consistent indentation
 0367. 🐛 fix: fix null pointer exception on login
 0664. ✅ test: add unit test for quiz service
+0659. 📚 docs: add API usage examples
