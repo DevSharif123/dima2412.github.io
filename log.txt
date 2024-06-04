@@ -516,3 +516,4 @@
 0664. ✅ test: add unit test for quiz service
 0659. 📚 docs: add API usage examples
 0190. 🎨 style: rename variables for clarity
+0826. 📚 docs: clarify environment setup
