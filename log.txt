@@ -520,3 +520,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0356. 📚 docs: write FAQ section
 0089. 🔧 refactor: remove redundant code blocks
+0893. 🐛 fix: handle 500 error in quiz API
