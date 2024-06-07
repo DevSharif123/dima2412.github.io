@@ -519,3 +519,4 @@
 0826. 📚 docs: clarify environment setup
 0680. ♻️ chore: add GitHub actions badge
 0356. 📚 docs: write FAQ section
+0089. 🔧 refactor: remove redundant code blocks
