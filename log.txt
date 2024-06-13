@@ -524,3 +524,4 @@
 0904. ✨ feat: implement quiz timer feature
 0759. 🔧 refactor: organize models into subfolders
 0061. ✨ feat: create admin dashboard
+0862. ♻️ chore: bump dependencies
