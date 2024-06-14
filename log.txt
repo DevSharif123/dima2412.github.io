@@ -527,3 +527,4 @@
 0862. ♻️ chore: bump dependencies
 0105. 🐛 fix: correct typo in registration form
 0292. 📚 docs: clarify environment setup
+0559. 🔧 refactor: split large controller into smaller functions
