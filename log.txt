@@ -533,3 +533,4 @@
 0992. ♻️ chore: clean up unused files
 0902. ✨ feat: enable dark mode toggle
 0071. 🔧 refactor: refactor quiz grading logic
+0013. ✅ test: increase coverage on auth module
