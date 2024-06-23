@@ -535,3 +535,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0013. ✅ test: increase coverage on auth module
 0362. 📚 docs: add API usage examples
+0696. 🔧 refactor: clean up auth middleware
