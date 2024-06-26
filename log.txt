@@ -540,3 +540,4 @@
 0777. 📚 docs: document token refresh logic
 0441. 📚 docs: add API usage examples
 0583. ✅ test: increase coverage on auth module
+0637. 🎨 style: apply consistent indentation
