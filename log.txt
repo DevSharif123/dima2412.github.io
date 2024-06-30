@@ -542,3 +542,4 @@
 0583. ✅ test: increase coverage on auth module
 0637. 🎨 style: apply consistent indentation
 0687. 🎨 style: remove trailing whitespace
+0953. 🎨 style: remove trailing whitespace
