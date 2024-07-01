@@ -544,3 +544,4 @@
 0687. 🎨 style: remove trailing whitespace
 0953. 🎨 style: remove trailing whitespace
 0591. ♻️ chore: clean up unused files
+0793. 📚 docs: clarify environment setup
