@@ -429,3 +429,4 @@
 0935. 📚 docs: update README with setup steps
 0700. 🎨 style: rename variables for clarity
 0978. 🐛 fix: prevent crash on empty input
+0760. 🐛 fix: resolve issue with date parsing
