@@ -431,3 +431,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0760. 🐛 fix: resolve issue with date parsing
 0949. 📚 docs: write FAQ section
+0758. 🚀 perf: optimize database query for quiz results
