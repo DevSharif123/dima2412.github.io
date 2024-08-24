@@ -577,3 +577,4 @@
 0858. ♻️ chore: clean up unused files
 0608. 🔧 refactor: remove redundant code blocks
 0724. ✅ test: mock database connection in test suite
+0874. 🔧 refactor: split large controller into smaller functions
