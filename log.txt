@@ -578,3 +578,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0724. ✅ test: mock database connection in test suite
 0874. 🔧 refactor: split large controller into smaller functions
+0535. 📚 docs: write FAQ section
