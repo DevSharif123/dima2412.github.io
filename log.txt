@@ -580,3 +580,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0535. 📚 docs: write FAQ section
 0068. 🐛 fix: fix null pointer exception on login
+0911. ✅ test: increase coverage on auth module
