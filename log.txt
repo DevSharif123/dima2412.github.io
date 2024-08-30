@@ -585,3 +585,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0528. ♻️ chore: clean up unused files
 0047. 🎨 style: rename variables for clarity
+0251. ♻️ chore: update .gitignore
