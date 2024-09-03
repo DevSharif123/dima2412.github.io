@@ -589,3 +589,4 @@
 0523. ♻️ chore: bump dependencies
 0108. 🎨 style: remove trailing whitespace
 0381. ♻️ chore: clean up unused files
+0308. 🚀 perf: reduce image load time
