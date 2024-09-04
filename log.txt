@@ -590,3 +590,4 @@
 0108. 🎨 style: remove trailing whitespace
 0381. ♻️ chore: clean up unused files
 0308. 🚀 perf: reduce image load time
+0136. 🚀 perf: lazy-load components
