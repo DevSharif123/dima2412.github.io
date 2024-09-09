@@ -593,3 +593,4 @@
 0136. 🚀 perf: lazy-load components
 0704. 🚀 perf: cache repeated calculations
 0602. 🔧 refactor: remove redundant code blocks
+0501. ✨ feat: add export to CSV option
