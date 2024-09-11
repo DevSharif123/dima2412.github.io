@@ -596,3 +596,4 @@
 0501. ✨ feat: add export to CSV option
 0989. 📚 docs: write FAQ section
 0274. 🔧 refactor: refactor quiz grading logic
+0410. 🎨 style: reformat files with black
