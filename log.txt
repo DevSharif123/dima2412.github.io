@@ -600,3 +600,4 @@
 0439. 🐛 fix: correct typo in registration form
 0742. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0686. 🎨 style: standardize quote style
