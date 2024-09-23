@@ -604,3 +604,4 @@
 0189. 📚 docs: clarify environment setup
 0384. 📚 docs: clarify environment setup
 0985. 📚 docs: document token refresh logic
+0533. ♻️ chore: add GitHub actions badge
