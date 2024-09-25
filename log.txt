@@ -440,3 +440,4 @@
 0714. 📚 docs: improve code comments in utils
 0922. 📚 docs: write FAQ section
 0795. 📚 docs: update README with setup steps
+0895. ✨ feat: support email verification
