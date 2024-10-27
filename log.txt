@@ -633,3 +633,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0773. 📚 docs: document token refresh logic
 0078. ♻️ chore: update .gitignore
+0077. ♻️ chore: rename env.example
