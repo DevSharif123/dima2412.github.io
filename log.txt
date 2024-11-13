@@ -648,3 +648,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0698. 🐛 fix: handle 500 error in quiz API
 0412. ✅ test: increase coverage on auth module
+0751. 🐛 fix: handle 500 error in quiz API
