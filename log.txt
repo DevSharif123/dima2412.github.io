@@ -653,3 +653,4 @@
 0271. ✅ test: add unit test for quiz service
 0498. ✅ test: mock database connection in test suite
 0387. ✨ feat: enable dark mode toggle
+0903. ✅ test: mock database connection in test suite
