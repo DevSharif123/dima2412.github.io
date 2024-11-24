@@ -448,3 +448,4 @@
 0175. 📚 docs: add API usage examples
 0500. ✅ test: add integration test for /submit endpoint
 0728. 🔧 refactor: split large controller into smaller functions
+0889. 🚀 perf: lazy-load components
