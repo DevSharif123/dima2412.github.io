@@ -656,3 +656,4 @@
 0903. ✅ test: mock database connection in test suite
 0650. ✅ test: add unit test for quiz service
 0683. ✅ test: mock database connection in test suite
+0215. 🎨 style: reformat files with black
