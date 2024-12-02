@@ -660,3 +660,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0519. 📚 docs: document token refresh logic
 0438. ♻️ chore: bump dependencies
+0923. ✨ feat: support email verification
