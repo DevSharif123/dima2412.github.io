@@ -450,3 +450,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0889. 🚀 perf: lazy-load components
 0989. 📚 docs: write FAQ section
+0596. ♻️ chore: update .gitignore
