@@ -661,3 +661,4 @@
 0519. 📚 docs: document token refresh logic
 0438. ♻️ chore: bump dependencies
 0923. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
