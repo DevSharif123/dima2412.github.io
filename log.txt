@@ -663,3 +663,4 @@
 0923. ✨ feat: support email verification
 0960. ✅ test: increase coverage on auth module
 0767. 🔧 refactor: remove redundant code blocks
+0278. 🔧 refactor: clean up auth middleware
