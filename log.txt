@@ -667,3 +667,4 @@
 0046. 🎨 style: rename variables for clarity
 0710. 🐛 fix: fix broken CSS in mobile view
 0800. 🚀 perf: optimize database query for quiz results
+0970. ♻️ chore: update .gitignore
