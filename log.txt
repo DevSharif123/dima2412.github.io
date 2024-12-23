@@ -674,3 +674,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0079. 🐛 fix: correct typo in registration form
 0805. ♻️ chore: add GitHub actions badge
+0341. 🚀 perf: lazy-load components
