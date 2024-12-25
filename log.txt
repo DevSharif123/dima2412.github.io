@@ -677,3 +677,4 @@
 0341. 🚀 perf: lazy-load components
 0419. 🎨 style: remove trailing whitespace
 0261. 🔧 refactor: refactor quiz grading logic
+0713. 🐛 fix: handle 500 error in quiz API
