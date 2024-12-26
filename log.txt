@@ -678,3 +678,4 @@
 0419. 🎨 style: remove trailing whitespace
 0261. 🔧 refactor: refactor quiz grading logic
 0713. 🐛 fix: handle 500 error in quiz API
+0030. 🐛 fix: fix null pointer exception on login
