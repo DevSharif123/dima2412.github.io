@@ -698,3 +698,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0338. ♻️ chore: add GitHub actions badge
 0941. 🚀 perf: cache repeated calculations
+0218. 🔧 refactor: clean up auth middleware
