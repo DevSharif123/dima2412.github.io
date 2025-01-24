@@ -458,3 +458,4 @@
 0858. ♻️ chore: clean up unused files
 0594. 🎨 style: reformat files with black
 0051. ✨ feat: enable dark mode toggle
+0583. ✅ test: increase coverage on auth module
