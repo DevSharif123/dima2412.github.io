@@ -6,3 +6,4 @@
 0250. 📚 docs: update README with setup steps
 0420. 🚀 perf: reduce image load time
 0626. 🎨 style: standardize quote style
+0814. 🔧 refactor: remove redundant code blocks
