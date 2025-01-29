@@ -460,3 +460,4 @@
 0051. ✨ feat: enable dark mode toggle
 0583. ✅ test: increase coverage on auth module
 0563. 📚 docs: clarify environment setup
+0358. 🚀 perf: reduce image load time
