@@ -708,3 +708,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0167. 🚀 perf: reduce image load time
 0021. ✨ feat: support email verification
+0939. 📚 docs: update README with setup steps
