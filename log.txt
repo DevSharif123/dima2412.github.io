@@ -710,3 +710,4 @@
 0021. ✨ feat: support email verification
 0939. 📚 docs: update README with setup steps
 0052. 🎨 style: standardize quote style
+0305. ✨ feat: enable dark mode toggle
