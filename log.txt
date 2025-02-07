@@ -713,3 +713,4 @@
 0305. ✨ feat: enable dark mode toggle
 0865. ♻️ chore: add GitHub actions badge
 0399. ✅ test: mock database connection in test suite
+0471. ✨ feat: support email verification
