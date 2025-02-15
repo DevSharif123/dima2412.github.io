@@ -719,3 +719,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
+0115. 🚀 perf: reduce image load time
