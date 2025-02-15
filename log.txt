@@ -718,3 +718,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0727. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
+0370. 🚀 perf: reduce image load time
