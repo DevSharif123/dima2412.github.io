@@ -720,3 +720,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
 0115. 🚀 perf: reduce image load time
+0835. 🐛 fix: prevent crash on empty input
