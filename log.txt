@@ -26,3 +26,4 @@
 0474. ✅ test: add unit test for quiz service
 0956. 📚 docs: clarify environment setup
 0164. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
