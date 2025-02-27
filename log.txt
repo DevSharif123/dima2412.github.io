@@ -29,3 +29,4 @@
 0960. ✅ test: increase coverage on auth module
 0485. 📚 docs: update README with setup steps
 0495. 🔧 refactor: remove redundant code blocks
+0702. ✨ feat: add user authentication
