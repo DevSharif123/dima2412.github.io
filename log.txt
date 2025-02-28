@@ -32,3 +32,4 @@
 0702. ✨ feat: add user authentication
 0773. 📚 docs: document token refresh logic
 0591. ♻️ chore: clean up unused files
+0841. 🚀 perf: optimize database query for quiz results
