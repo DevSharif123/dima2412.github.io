@@ -37,3 +37,4 @@
 0010. ✨ feat: add user authentication
 0791. 🔧 refactor: clean up auth middleware
 0085. ✨ feat: support email verification
+0054. ♻️ chore: update .gitignore
