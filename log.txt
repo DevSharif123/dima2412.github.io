@@ -738,3 +738,4 @@
 0275. 🎨 style: standardize quote style
 0917. ✅ test: add integration test for /submit endpoint
 0365. 🚀 perf: reduce image load time
+0499. 🎨 style: reformat files with black
