@@ -736,3 +736,4 @@
 0214. 📚 docs: improve code comments in utils
 0152. ✨ feat: add user authentication
 0275. 🎨 style: standardize quote style
+0917. ✅ test: add integration test for /submit endpoint
