@@ -465,3 +465,4 @@
 0572. ✨ feat: add user authentication
 0162. ♻️ chore: add GitHub actions badge
 0142. ✨ feat: implement quiz timer feature
+0117. ✅ test: increase coverage on auth module
