@@ -41,3 +41,4 @@
 0861. ♻️ chore: clean up unused files
 0619. ✨ feat: create admin dashboard
 0033. 🎨 style: apply consistent indentation
+0450. 🐛 fix: fix broken CSS in mobile view
