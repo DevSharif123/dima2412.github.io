@@ -42,3 +42,4 @@
 0619. ✨ feat: create admin dashboard
 0033. 🎨 style: apply consistent indentation
 0450. 🐛 fix: fix broken CSS in mobile view
+0945. ♻️ chore: add GitHub actions badge
