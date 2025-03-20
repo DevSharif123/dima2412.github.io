@@ -45,3 +45,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0907. 🔧 refactor: split large controller into smaller functions
 0378. 🐛 fix: prevent crash on empty input
+0258. 🐛 fix: prevent crash on empty input
