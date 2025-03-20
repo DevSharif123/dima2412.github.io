@@ -744,3 +744,4 @@
 0267. 📚 docs: improve code comments in utils
 0522. 🐛 fix: handle 500 error in quiz API
 0884. 📚 docs: clarify environment setup
+0551. 📚 docs: write FAQ section
