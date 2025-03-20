@@ -746,3 +746,4 @@
 0884. 📚 docs: clarify environment setup
 0551. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
+0350. 🚀 perf: cache repeated calculations
