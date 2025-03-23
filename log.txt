@@ -747,3 +747,4 @@
 0551. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
 0350. 🚀 perf: cache repeated calculations
+0996. ✅ test: test user registration edge cases
