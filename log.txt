@@ -48,3 +48,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0462. ♻️ chore: update .gitignore
 0316. 🐛 fix: fix broken CSS in mobile view
+0955. 🔧 refactor: remove redundant code blocks
