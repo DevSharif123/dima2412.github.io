@@ -466,3 +466,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0142. ✨ feat: implement quiz timer feature
 0117. ✅ test: increase coverage on auth module
+0019. ✨ feat: enable dark mode toggle
