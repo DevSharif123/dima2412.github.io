@@ -468,3 +468,4 @@
 0117. ✅ test: increase coverage on auth module
 0019. ✨ feat: enable dark mode toggle
 0493. ✨ feat: add user authentication
+0894. ✅ test: add integration test for /submit endpoint
