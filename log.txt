@@ -51,3 +51,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0880. 🐛 fix: fix broken CSS in mobile view
 0970. ♻️ chore: update .gitignore
+0758. 🚀 perf: optimize database query for quiz results
