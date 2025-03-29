@@ -50,3 +50,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0955. 🔧 refactor: remove redundant code blocks
 0880. 🐛 fix: fix broken CSS in mobile view
+0970. ♻️ chore: update .gitignore
