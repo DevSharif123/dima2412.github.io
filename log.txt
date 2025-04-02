@@ -760,3 +760,4 @@
 0594. 🎨 style: reformat files with black
 0450. 🐛 fix: fix broken CSS in mobile view
 0682. ♻️ chore: rename env.example
+0233. 🚀 perf: lazy-load components
