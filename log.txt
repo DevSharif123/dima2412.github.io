@@ -469,3 +469,4 @@
 0019. ✨ feat: enable dark mode toggle
 0493. ✨ feat: add user authentication
 0894. ✅ test: add integration test for /submit endpoint
+0360. ✨ feat: add export to CSV option
