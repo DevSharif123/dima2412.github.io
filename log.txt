@@ -762,3 +762,4 @@
 0682. ♻️ chore: rename env.example
 0233. 🚀 perf: lazy-load components
 0394. 🚀 perf: lazy-load components
+0901. ✨ feat: add user authentication
