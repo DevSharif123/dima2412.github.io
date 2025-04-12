@@ -66,3 +66,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0178. ✨ feat: support email verification
 0094. 📚 docs: document token refresh logic
+0679. ♻️ chore: bump dependencies
