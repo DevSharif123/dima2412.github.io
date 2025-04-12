@@ -65,3 +65,4 @@
 0330. ✅ test: test user registration edge cases
 0542. 🔧 refactor: organize models into subfolders
 0178. ✨ feat: support email verification
+0094. 📚 docs: document token refresh logic
