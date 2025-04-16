@@ -778,3 +778,4 @@
 0615. 🐛 fix: correct typo in registration form
 0502. 📚 docs: update README with setup steps
 0001. 🚀 perf: cache repeated calculations
+0828. ♻️ chore: add GitHub actions badge
