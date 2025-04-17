@@ -73,3 +73,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0401. 🚀 perf: reduce image load time
 0944. ✨ feat: add user authentication
+0908. ♻️ chore: bump dependencies
