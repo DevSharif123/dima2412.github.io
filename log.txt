@@ -72,3 +72,4 @@
 0545. 🎨 style: standardize quote style
 0890. 🔧 refactor: organize models into subfolders
 0401. 🚀 perf: reduce image load time
+0944. ✨ feat: add user authentication
