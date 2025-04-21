@@ -784,3 +784,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0255. 🔧 refactor: refactor quiz grading logic
 0091. ✨ feat: add user authentication
+0914. ✅ test: test user registration edge cases
