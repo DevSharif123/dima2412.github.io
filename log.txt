@@ -785,3 +785,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0091. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
+0518. ✨ feat: support email verification
