@@ -786,3 +786,4 @@
 0091. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
 0518. ✨ feat: support email verification
+0099. 🚀 perf: reduce image load time
