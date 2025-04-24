@@ -83,3 +83,4 @@
 0155. ✨ feat: create admin dashboard
 0959. 🐛 fix: fix null pointer exception on login
 0586. 🎨 style: remove trailing whitespace
+0223. 🔧 refactor: remove redundant code blocks
