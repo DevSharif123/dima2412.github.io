@@ -788,3 +788,4 @@
 0518. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
 0554. 📚 docs: improve code comments in utils
+0182. 🔧 refactor: remove redundant code blocks
