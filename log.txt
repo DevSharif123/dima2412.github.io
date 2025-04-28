@@ -85,3 +85,4 @@
 0586. 🎨 style: remove trailing whitespace
 0223. 🔧 refactor: remove redundant code blocks
 0335. ♻️ chore: update .gitignore
+0287. 📚 docs: write FAQ section
