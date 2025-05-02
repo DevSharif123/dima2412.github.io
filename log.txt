@@ -796,3 +796,4 @@
 0230. ✨ feat: create admin dashboard
 0965. 🎨 style: reformat files with black
 0887. 📚 docs: add API usage examples
+0346. ✅ test: mock database connection in test suite
