@@ -92,3 +92,4 @@
 0102. ✨ feat: support email verification
 0497. 🔧 refactor: refactor quiz grading logic
 0158. 📚 docs: clarify environment setup
+0772. 🐛 fix: fix null pointer exception on login
