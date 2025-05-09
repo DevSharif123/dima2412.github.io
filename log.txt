@@ -801,3 +801,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0476. 🚀 perf: reduce image load time
 0414. 🔧 refactor: remove redundant code blocks
+0929. ✨ feat: support email verification
