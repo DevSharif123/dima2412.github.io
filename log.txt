@@ -803,3 +803,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
 0440. 📚 docs: update README with setup steps
+0459. 🔧 refactor: organize models into subfolders
