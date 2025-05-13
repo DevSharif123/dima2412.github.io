@@ -806,3 +806,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0051. ✨ feat: enable dark mode toggle
 0335. ♻️ chore: update .gitignore
+0048. 📚 docs: update README with setup steps
