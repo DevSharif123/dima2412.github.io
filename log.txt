@@ -819,3 +819,4 @@
 0678. ✨ feat: add user authentication
 0898. 🐛 fix: fix broken CSS in mobile view
 0098. 🎨 style: rename variables for clarity
+0140. 🐛 fix: handle 500 error in quiz API
