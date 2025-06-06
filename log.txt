@@ -824,3 +824,4 @@
 0016. 🎨 style: apply consistent indentation
 0513. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
+0253. 📚 docs: update README with setup steps
