@@ -823,3 +823,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0016. 🎨 style: apply consistent indentation
 0513. ♻️ chore: bump dependencies
+0478. 🐛 fix: resolve issue with date parsing
