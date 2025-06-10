@@ -828,3 +828,4 @@
 0132. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
 0654. ✨ feat: create admin dashboard
+0945. ♻️ chore: add GitHub actions badge
