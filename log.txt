@@ -479,3 +479,4 @@
 0789. ✨ feat: create admin dashboard
 0037. 🐛 fix: correct typo in registration form
 0249. ✅ test: increase coverage on auth module
+0759. 🔧 refactor: organize models into subfolders
