@@ -830,3 +830,4 @@
 0654. ✨ feat: create admin dashboard
 0945. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0736. 🐛 fix: fix null pointer exception on login
