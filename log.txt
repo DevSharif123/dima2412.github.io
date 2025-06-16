@@ -834,3 +834,4 @@
 0392. 🎨 style: remove trailing whitespace
 0641. 📚 docs: write FAQ section
 0770. ♻️ chore: rename env.example
+0058. ♻️ chore: add GitHub actions badge
