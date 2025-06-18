@@ -835,3 +835,4 @@
 0641. 📚 docs: write FAQ section
 0770. ♻️ chore: rename env.example
 0058. ♻️ chore: add GitHub actions badge
+0550. 🔧 refactor: split large controller into smaller functions
