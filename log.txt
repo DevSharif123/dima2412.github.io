@@ -839,3 +839,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0910. 🎨 style: remove trailing whitespace
 0569. 📚 docs: document token refresh logic
+0304. 🔧 refactor: remove redundant code blocks
