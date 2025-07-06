@@ -483,3 +483,4 @@
 0106. 🎨 style: reformat files with black
 0964. ♻️ chore: clean up unused files
 0334. 🚀 perf: cache repeated calculations
+0791. 🔧 refactor: clean up auth middleware
