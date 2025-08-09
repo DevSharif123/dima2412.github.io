@@ -872,3 +872,4 @@
 0060. ♻️ chore: clean up unused files
 0374. 🎨 style: standardize quote style
 0366. 🔧 refactor: remove redundant code blocks
+0090. ✅ test: increase coverage on auth module
