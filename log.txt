@@ -871,3 +871,4 @@
 0974. ✨ feat: add export to CSV option
 0060. ♻️ chore: clean up unused files
 0374. 🎨 style: standardize quote style
+0366. 🔧 refactor: remove redundant code blocks
