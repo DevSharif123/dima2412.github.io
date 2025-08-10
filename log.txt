@@ -489,3 +489,4 @@
 0925. ✨ feat: add export to CSV option
 0538. 🐛 fix: fix broken CSS in mobile view
 0514. 🐛 fix: fix broken CSS in mobile view
+0692. ✅ test: add integration test for /submit endpoint
