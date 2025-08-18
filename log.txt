@@ -882,3 +882,4 @@
 0575. ✅ test: add unit test for quiz service
 0300. ✨ feat: add export to CSV option
 0717. 🔧 refactor: refactor quiz grading logic
+0957. 🐛 fix: fix null pointer exception on login
