@@ -886,3 +886,4 @@
 0369. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
 0003. ✅ test: increase coverage on auth module
+0153. ♻️ chore: rename env.example
