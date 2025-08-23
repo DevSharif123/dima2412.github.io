@@ -888,3 +888,4 @@
 0003. ✅ test: increase coverage on auth module
 0153. ♻️ chore: rename env.example
 0319. 🐛 fix: handle 500 error in quiz API
+0409. 🚀 perf: lazy-load components
