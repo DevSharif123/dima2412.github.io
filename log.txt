@@ -494,3 +494,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0998. 🐛 fix: fix null pointer exception on login
 0754. 🐛 fix: handle 500 error in quiz API
+0437. 📚 docs: clarify environment setup
